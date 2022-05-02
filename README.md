@@ -7,7 +7,7 @@ Senior Biomedical Scientist
 
 * 👨🏿‍🔬 I'm a Senior Biomedical Scientist by day
 * 🧠 I'm learning Python
-* 🤝 I'm open to collaborating on anything involving biochemistry and/or biomedical science data e.g. IQC data interpretation
+* 🤝 I'm open to collaborating on anything involving biochemistry and/or biomedical science data
 * 🎮 I'm also interested in gaming, mobile technology, music, and light/sound engineering
 * 🌍 I'm based in London, United Kingdom
 
