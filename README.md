@@ -6,9 +6,9 @@ Senior Biomedical Scientist
 
 
 * 👨🏿‍🔬 I'm a Senior Biomedical Scientist by day
-* ☁️ I'm learning Azure cloud computing
+* ☁️ I'm Microsoft Certified in Azure Fundamentals and Azure Data Fundamentals
 * 🤝 I'm open to collaborating on anything involving biochemistry and/or biomedical science data
-* 🎮 I'm also interested in gaming, mobile technology, music, and light/sound engineering
+* 🎮 I'm interested in gaming, mobile technology, music, and light/sound engineering
 * 🌍 I'm based in London, United Kingdom
 
 <a href="https://www.twitter.com/runitralph" target="_blank" rel="noreferrer"><img
