@@ -1,4 +1,4 @@
-Hi 👋 My name is Raphael
+👋 Hi, I'm Raphael
 ========================
 
 Senior Biomedical Scientist
