@@ -5,7 +5,7 @@ Senior Biomedical Scientist
 ---------------------------
 
 
-* 👨🏿‍🔬 I'm a Senior Biomedical Scientist and Deputy Head of Biochemistry by day
+* 👨🏿‍🔬 I'm a Senior Biomedical Scientist and Labs EHR Clinical SME by day
 * ☁️ I'm Microsoft Certified in Azure Fundamentals and Data Fundamentals, and AI Fundamentals
 * 🤝 I'm open to collaborating on anything involving biochemistry and/or biomedical science data
 * 🎮 I'm interested in gaming, mobile technology, music, and light/sound engineering
