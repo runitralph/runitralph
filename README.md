@@ -1,12 +1,12 @@
 Hi, I'm Raphael 👋
 ========================
 
-Senior Biomedical Scientist
+Senior Biomedical Scientist | Data Analyst | LIMS Specialist
 ---------------------------
 
 
-* 👨🏿‍🔬 I'm a Senior Biomedical Scientist and Labs EHR Clinical SME by day
-* ☁️ I'm Microsoft Certified in Azure Fundamentals and Data Fundamentals, and AI Fundamentals
+* 👨🏿‍🔬 I'm a Senior Biomedical Scientist and Laboratory EHR Clinical SME by day
+* ☁️ I'm Microsoft Certified in Azure Fundamentals, Azure Data Fundamentals, and Azure AI Fundamentals
 * 🤝 I'm open to collaborating on anything involving biochemistry and/or biomedical science data
 * 🎮 I'm interested in gaming, mobile technology, music, and light/sound engineering
 * 🌍 I'm based in London, United Kingdom
