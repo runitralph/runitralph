@@ -12,20 +12,22 @@ Senior Biomedical Scientist | Data Analyst | LIMS Specialist
 * 🎮 I'm interested in gaming, mobile technology, music, and light/sound engineering
 * 🌍 I'm based in London, United Kingdom
 
-<a href="https://www.twitter.com/runitralph" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/runitralph?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+### Skills | Languages
 
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
+* Python - automation, data analysis, data manipulation and web crawling
+* NPR - Report writing for Meditech Magic and Expanse EHR systems
+* SQL - MySQL and Microsoft SQL Server Management Studio
+* Excel - data analysis, manipulation and visualisation
 
 ### Socials
 
-<p align="left"> <a href="https://www.twitter.com/runitralph" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <br> <a href="http://www.instagram.com/runitralph" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <br> <a href="https://www.linkedin.com/in/raphndem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+* 𝕏 - [@runitralph](https://www.twitter.com/runitralph) 
+* LinkedIn - [raphndem](https://www.linkedin.com/in/raphndem)
+
+### Courses | Resources
+* [Microsoft Learn](https://learn.microsoft.com/en-gb/users/runitralph/?trk=public_profile_see-credential)
+* [Udacity](https://www.udacity.com/)
+* [Pluralsight](https://www.pluralsight.com/)
 
 ### Badges
 
