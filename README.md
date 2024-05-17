@@ -1,4 +1,4 @@
-Hi, I'm Raphael 👋
+Hi, I'm Raphael 👋🏿
 ========================
 
 Senior Biomedical Scientist | Data Analyst | LIMS Specialist
