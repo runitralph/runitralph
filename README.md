@@ -37,5 +37,3 @@ Senior Biomedical Scientist | Data Analyst | LIMS Specialist
 
 <a href="http://www.github.com/runitralph"><img src="https://github-readme-streak-stats.herokuapp.com/?user=runitralph&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=runitralph&theme=onedark)](https://github.com/runitralph/github-profile-trophy)
-
