@@ -21,7 +21,7 @@ Senior Biomedical Scientist | Data Analyst | LIMS Specialist
 
 ### Socials
 
-* 𝕏 - [@runitralph](https://www.twitter.com/runitralph) 
+* 𝕏 - [@runitralph](https://www.x.com/runitralph) 
 * LinkedIn - [raphndem](https://www.linkedin.com/in/raphndem)
 
 ### Courses | Resources
