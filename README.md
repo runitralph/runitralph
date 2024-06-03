@@ -14,10 +14,10 @@ Senior Biomedical Scientist | Data Analyst | LIMS Specialist
 
 ### Skills | Languages
 
-* Python - automation, data analysis, data manipulation and web crawling
-* NPR - Report writing for MEDITECH Magic and Expanse EHR systems
-* SQL - MySQL and Microsoft SQL Server Management Studio
-* Excel - data analysis, manipulation and visualisation
+* `Python` - automation, data analysis, data manipulation and web crawling
+* `NPR` - Report writing for MEDITECH Magic and Expanse EHR systems
+* `SQL` - MySQL and Microsoft SQL Server Management Studio
+* `Excel` - data analysis, manipulation and visualisation
 
 ### Socials
 
