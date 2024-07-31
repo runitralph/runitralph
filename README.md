@@ -5,7 +5,7 @@ LIMS Technical Specialist | Senior Biomedical Scientist | Data Analyst
 ---------------------------
 
 
-* 👨🏿‍🔬 I'm a Senior Biomedical Scientist, Deputy Service Lead and LIMS Technical Change Lead
+* 👨🏿‍🔬 I'm a LIMS Technical Change Lead, Senior Biomedical Scientist and Deputy Service Lead for Biochemistry
 * 👨🏿‍💻 I'm currently engaged in LIMS build, and data analysis and manipulation using Python, SQL, NPR, and Excel
 * ☁️ I'm Microsoft Certified in [Azure Fundamentals](https://learn.microsoft.com/en-gb/users/runitralph/credentials/bf8c572b4180429?trk=public_profile_see-credential), [Azure Data Fundamentals](https://learn.microsoft.com/en-gb/users/runitralph/credentials/7cfe94804ab0dbd1?trk=public_profile_see-credential), and [Azure AI Fundamentals](https://learn.microsoft.com/en-gb/users/runitralph/credentials/9ef2a40b08db11e7?trk=public_profile_see-credential)
 * 🤝 I'm open to collaborating on anything involving biochemistry and/or biomedical science data
