@@ -14,8 +14,8 @@ LIMS Technical Specialist | Senior Biomedical Scientist | Data Analyst
 
 ### Skills | Languages
 
-* `HL7` - Familiar with HL7 standards for healthcare data exchange and interoperability
 * `Python` - Automation, data analysis, data manipulation and web crawling
+* `HL7` - Familiar with HL7 standards for healthcare data interoperability
 * `NPR` - Report writing for MEDITECH Magic and Expanse EHR systems
 * `SQL` - MySQL and Microsoft SQL Server Management Studio
 * `Excel` - Data analysis, manipulation and visualisation
