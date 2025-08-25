@@ -1,7 +1,7 @@
 Hi, I'm Raphael 👋🏿
 ========================
 
-LIMS Technical Specialist | Senior Biomedical Scientist | Data Analyst
+Chartered Scientist | LIMS Technical Specialist | Data Analyst
 ---------------------------
 
 
