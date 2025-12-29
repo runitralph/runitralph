@@ -14,9 +14,9 @@ Chartered Scientist | LIMS Technical Specialist | Data Analyst
 
 ### Skills | Languages
 
+* `NPR` - Calculations, Rules and Report writing for MEDITECH Magic and Expanse EHR systems
 * `Python` - Automation, data analysis, data manipulation and web crawling
 * `HL7` - Familiar with HL7 standards for healthcare data interoperability
-* `NPR` - Report writing for MEDITECH Magic and Expanse EHR systems
 * `SQL` - MySQL and Microsoft SQL Server Management Studio
 * `Excel` - Data analysis, manipulation and visualisation
 
