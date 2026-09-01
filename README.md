@@ -8,7 +8,7 @@ Chartered Scientist | LIMS Technical Specialist | Data Analyst
 * 👨🏿‍🔬 I'm a LIMS Technical Analyst and Senior Biomedical Scientist specialising in Biochemistry
 * 👨🏿‍💻 I'm currently engaged in LIMS support, and data analysis and manipulation using Python, SQL, NPR, and Excel
 * ☁️ I'm Microsoft Certified in [Azure Fundamentals](https://learn.microsoft.com/en-gb/users/runitralph/credentials/bf8c572b4180429?trk=public_profile_see-credential), [Azure Data Fundamentals](https://learn.microsoft.com/en-gb/users/runitralph/credentials/7cfe94804ab0dbd1?trk=public_profile_see-credential), and [Azure AI Fundamentals](https://learn.microsoft.com/en-gb/users/runitralph/credentials/9ef2a40b08db11e7?trk=public_profile_see-credential)
-* 💻 I'm interested in homelab infrastrcucture, managing network-wide DNS filtering, smart home automation, telemetry, and local AI execution.
+* 💻 I'm interested in homelab infrastructure, including smart home automation, DNS filtering, telemetry, and local AI execution.
 * 🤝 I'm open to collaborating on anything involving biochemistry and/or biomedical science data
 * 🎮 I'm interested in gaming, mobile technology, music, and light/sound engineering
 * 🌍 I'm based in London, United Kingdom
